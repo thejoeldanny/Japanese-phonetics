@@ -1,19 +1,9 @@
 # Japanese-phonetics
-Hello There!! This Python program is used to print every phonetic present in the japanese language.
+Hello There!! This Python program is used to print every phonetic present in the japanese language to write and practice on paper.
+There are many different types of letters in Japanese language.
+I have completed this program on a very basic level
 
-The python program prints all the phonestics of the japanese language in english. 
-The output can be cuztomized as per need.
-The FIRST OPTION is to get the HIRAGANA & KATAKANA.
-The SECOND OPTION is to get the DAKUON.
-The THIRD OPTION is to get the COMBO LETTERS.
-THe FOURTH OPTION is to get the SMALL VOWELS.
-The FITH OPTION is to get the LONG VOWELS.
-The above options only prints the particular option chose, but the SIXTH OPTION enables you to print EVERYTHING from HIRAGANA to KATAKANA.
-The SEVENTH OPTION is to EXIT the program.  
-
-
-
-Now for the HELP SECTION!!!
-
-I don't know how to work somethings out:
-1. 
+Things I would like to add to this program:-
+  1. Use UNICODE values to get the letters of japanese to check what I written is right or wrong
+  2. Build a frontend to this code so it would be runnable like an application.
+  3. Add Auto-next method to go to the next letter automatically.
